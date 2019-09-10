@@ -9,6 +9,9 @@ Code and expression models for "A framework for transcriptome-wide association s
 
 Code is modified from [FUSION](http://gusevlab.org/projects/fusion/ "FUSION") (Gusev et al 2016).
 
+Scripts for cross-validation are modified from these scripts. 
+Scripts for eQTL analysis can be requested from the authors: <abhattac@live.unc.edu>.
+
 ### Models
 - CBCS_TWAS_expmodels.tgz - tar zipped folder of predictive tumor expression models from CBCS. 
 
