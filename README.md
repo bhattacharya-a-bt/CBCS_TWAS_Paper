@@ -1,6 +1,8 @@
 # CBCS_TWAS_Paper
 Code and expression models for "A framework for transcriptome-wide association studies in breast cancer in diverse study populations" (Bhattacharya et al 2019)
 
+Should you use our models for your own association studies, please cite: [![DOI](https://zenodo.org/badge/207564340.svg)](https://zenodo.org/badge/latestdoi/207564340)
+
 ### Scripts
 
 - featureSelect.R: script for aggregating design matrix of all cisSNPs and trans-eSNPs for gene of interest
