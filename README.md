@@ -15,7 +15,7 @@ Scripts for cross-validation are modified from these scripts.
 Scripts for eQTL analysis can be requested from the authors: <abhattac@live.unc.edu>.
 
 ### Results
-- CBCS_eQTLs_9.10.19.xlsx: eQTL results across race and tumor purity adjustments in CBCS
+- CBCS_eQTLs_11.22.19.xlsx: eQTL results across race and tumor purity adjustments in CBCS
 - GTEx_CBCS_eQTL_comparison.csv: comparison of top eGenes from CBCS and GTEx
 
 ### Models
