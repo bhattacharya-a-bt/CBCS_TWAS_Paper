@@ -1,5 +1,5 @@
 # CBCS_TWAS_Paper
-Code and expression models for "A framework for transcriptome-wide association studies in breast cancer in diverse study populations" (Bhattacharya et al 2019)
+Code and expression models for "A framework for transcriptome-wide association studies in breast cancer in diverse study populations" (Bhattacharya et al 2020)
 
 Should you use our models for your own association studies, please cite: [![DOI](https://zenodo.org/badge/207564340.svg)](https://zenodo.org/badge/latestdoi/207564340)
 
@@ -12,7 +12,7 @@ Should you use our models for your own association studies, please cite: [![DOI]
 Code is modified from [FUSION](http://gusevlab.org/projects/fusion/ "FUSION") (Gusev et al 2016).
 
 Scripts for cross-validation are modified from these scripts. 
-Scripts for eQTL analysis can be requested from the authors: <abhattac@live.unc.edu>.
+Scripts for eQTL analysis can be requested from the authors: <bhattacharya.a.bt@gmail.com>.
 
 ### Results
 - CBCS_eQTLs_11.22.19.xlsx: eQTL results across race and tumor purity adjustments in CBCS
